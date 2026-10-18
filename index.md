@@ -4,7 +4,14 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="assets/images/xzxz64.jpg" alt="Picture of xzxz64" hspace="20" width="30%" align="right"/> Hello! My name is Ruiyang Ni. Welcome to my personal website, where I share my coursework, projects, and learning experiences.
+
+I am currently an exchange student at the [**University of Helsinki**](https://www.helsinki.fi), majoring in Environmental sustainability.
+
+I have many hobbies:
+* Tennis
+* Hiking
+* Basketball
 
 ## Find me on
 
