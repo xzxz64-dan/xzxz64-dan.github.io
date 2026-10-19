@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/xzxz64.jpg" alt="Picture of xzxz64" hspace="20" width="30%" align="right"/> Hello! My name is Ruiyang Ni. Welcome to my personal website, where I share my coursework, projects, and learning experiences.
+<img src="assets/images/xzxz64.jpg" alt="Picture of xzxz64" hspace="20" width="30%" align="right"/> Hello! My name is [Ruiyang Ni](assets/documents/Ruiyang_Ni_CV.pdf). Welcome to my personal website, where I share my coursework, projects, and learning experiences.
 
 I am currently an exchange student at the [**University of Helsinki**](https://www.helsinki.fi), majoring in Environmental sustainability.
 
